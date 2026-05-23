@@ -4,6 +4,7 @@ b=input("enter the second number")
 print(type(a))
 print(type(b))
 #to know what type is the variable
+#just to commit
 
 t=a
 a=b
